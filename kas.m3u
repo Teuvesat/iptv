@@ -16,38 +16,38 @@ http://176.65.146.237:8401/play/a09s/index.m3u8
 #EXTINF:-1,tvg-id="FDF" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",FDF 
 http://176.65.146.237:8401/play/a09p/index.m3u8
 
-#EXTINF:-1,tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://example.com/logo.png" group-title="Generalista",ZDF
+#EXTINF:-1,tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://example.com/logo.png" group-title="Generalista",ZDF [DE]
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 
-#EXTINF:-1,tvg-id="ARD" tvg-name="ARD" tvg-logo="https://example.com/logo.png" group-title="Generalista",ARD Das Erste
+#EXTINF:-1,tvg-id="ARD" tvg-name="ARD" tvg-logo="https://example.com/logo.png" group-title="Generalista",ARD Das Erste [DE]
 https://daserste-live.ard-mcdn.de/daserste/live/his/int/master.m3u8
 
 #EXTINF:-1,tvg-id="RT" tvg-name="RT" tvg-logo="https://example.com/logo.png" group-title="Generalista",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1,tvg-id="TVI" tvg-name="TVI" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVI
+#EXTINF:-1,tvg-id="TVI" tvg-name="TVI" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVI [PT]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
-#EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-logo="https://example.com/logo.png" group-title="Generalista",SIC
+#EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-logo="https://example.com/logo.png" group-title="Generalista",SIC [PT]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="HIT TV" tvg-name="HIT TV" tvg-logo="https://example.com/logo.png" group-title="Generalista",HIT TV
+http://185.189.225.149/HitTV/index.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="RTL" tvg-name="RTL" tvg-logo="https://example.com/logo.png" group-title="Generalista",RTL [DE]
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://example.com/logo.png" group-title="Generalista",Canale 5 [IT]
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://example.com/logo.png" group-title="Generalista",Channel 5 [UK]
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="ORF 1" tvg-name="ORF 1" tvg-logo="https://example.com/logo.png" group-title="Generalista",ORF 1 [AT]
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",Clubland [UK]
+https://viamotionhsi.netplus.ch/live/eds/clubland/browser-HLS8/clubland.m3u8
 
 #EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
 https://laotra-1-23-secure2.akamaized.net/master.m3u8 
