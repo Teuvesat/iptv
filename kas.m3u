@@ -1,10 +1,25 @@
+#EXTINF:-1,tvg-id="TVE La1" tvg-name="TVE La1" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE La1 
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1,tvg-id="TVE La2" tvg-name="TVE La2" tvg-chno="2" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE La2 
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1,tvg-id="TVE 24h" tvg-name="TVE 24h" tvg-chno="3" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE 24h 
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 #EXTINF:-1,tvg-id="Cuatro" tvg-name="Cuatro" tvg-chno="4" tvg-logo="https://example.com/logo.png" group-title="Generalista",Cuatro 
 http://176.65.146.237:8401/play/a09s/index.m3u8
 
 #EXTINF:-1,tvg-id="Telecinco" tvg-name="Telecinco" tvg-chno="5" tvg-logo="https://example.com/logo.png" group-title="Generalista",Telecinco
 http://176.65.146.237:8401/play/a09r/index.m3u8
 
-#EXTINF:-1,tvg-id="FDF" tvg-name="TeuveSat" tvg-chno="9" tvg-logo="https://example.com/logo.png" group-title="Generalista",FDF 
+#EXTINF:-1,tvg-id="TRECE" tvg-name="TRECE" tvg-chno="7" tvg-logo="https://example.com/logo.png" group-title="Generalista",TRECE
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+
+#EXTINF:-1,tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-chno="8" tvg-logo="https://example.com/logo.png" group-title="Generalista",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:-1,tvg-id="FDF" tvg-name="FDF" tvg-chno="9" tvg-logo="https://example.com/logo.png" group-title="Generalista",FDF 
 http://176.65.146.237:8401/play/a09p/index.m3u8
 
 #EXTINF:-1,tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Telemadrid.svg" group-title="Generalista",Telemadrid
@@ -13,81 +28,131 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1,tvg-id="La Otra" tvg-name="La Otra" tvg-chno="11" tvg-logo="https://logos.fandom.com/wiki/LaOtra?file=Telemadrid_laotra_2017_symbol.svg" group-title="Generalista",La Otra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal Sur" tvg-name="Canal Sur" tvg-chno="12" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logo_de_Canal_Sur_1.png" group-title="Generalista",Canal Sur
+#EXTINF:-1 tvg-id="Canal Sur" tvg-name="Canal Sur" tvg-chno="13" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logo_de_Canal_Sur_1.png" group-title="Generalista",Canal Sur
 http://176.65.146.237:8401/play/a09c/index.m3u8
 
+#EXTINF:-1 tvg-id="Andalucía Televisión" tvg-name="Andalucía Televisión" tvg-chno="14" tvg-logo="https://example.com/logo.png" group-title="Generalista",Andalucía Televisión
+http://176.65.146.237:8401/play/a09g/index.m3u8
 
-#EXTINF:-1,tvg-id="ZDF" tvg-name="ZDF" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",ZDF [DE]
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1 tvg-id="Aragón TV" tvg-name="Aragón TV" tvg-chno="16" tvg-logo="https://example.com/logo.png" group-title="Generalista",Aragón TV
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 
-#EXTINF:-1,tvg-id="ARD" tvg-name="ARD" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",ARD Das Erste [DE]
-https://daserste-live.ard-mcdn.de/daserste/live/his/int/master.m3u8
+#EXTINF:-1 tvg-id="TVG Europa" tvg-name="TVG Europa" tvg-chno="17" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVG Europa
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1,tvg-id="RT" tvg-name="RT" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",RT Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVG 2" tvg-name="TVG 2" tvg-chno="18" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVG 2
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1,tvg-id="TVI" tvg-name="TVI" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVI [PT]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-id="Àpunt" tvg-name="Àpunt" tvg-chno="19" tvg-logo="https://example.com/logo.png" group-title="Generalista",Àpunt
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",SIC [PT]
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-chno="20" tvg-logo="https://example.com/logo.png" group-title="Generalista",TV3
+https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1,tvg-id="HIT TV" tvg-name="HIT TV" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",HIT TV
-http://185.189.225.149/HitTV/index.m3u8
+#EXTINF:-1 tvg-id="Canal 33" tvg-name="Canal 33" tvg-chno="21" tvg-logo="https://example.com/logo.png" group-title="Generalista",Canal 33
+https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 
-#EXTINF:-1,tvg-id="RTL" tvg-name="RTL" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",RTL [DE]
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-id="3CAT Info" tvg-name="3CAT Info" tvg-chno="22" tvg-logo="https://example.com/logo.png" group-title="Generalista",3CAT Info
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1,tvg-id="Canale 5" tvg-name="Canale 5" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",Canale 5 [IT]
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="Esport 3" tvg-chno="23" tvg-logo="https://example.com/logo.png" group-title="Generalista",Esport 3
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:-1,tvg-id="Channel 5" tvg-name="Channel 5" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",Channel 5 [UK]
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-#EXTINF:-1,tvg-id="ORF 1" tvg-name="ORF 1" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",ORF 1 [AT]
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+#EXTINF:-1,tvg-id="TVE Star" tvg-name="TVE Star" tvg-chno="30" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE Star 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1,tvg-id="ORF 2" tvg-name="ORF 2" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",ORF 2 [AT]
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 
-#EXTINF:-1,tvg-id="ORF 3" tvg-name="ORF 3" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",ORF 3 [AT]
-https://viamotionhsi.netplus.ch/live/eds/orf3/browser-HLS8/orf3.m3u8
-
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",Clubland [UK]
-https://viamotionhsi.netplus.ch/live/eds/clubland/browser-HLS8/clubland.m3u8
-
-#EXTINF:-1,tvg-id="Telemiño" tvg-name="Telemiño" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",Telemiño
-https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
-
-#EXTINF:-1,tvg-id="TeleElx" tvg-name="TeleElx" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeleElx 
+#EXTINF:-1,tvg-id="TeleElx" tvg-name="TeleElx" tvg-chno="31" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeleElx 
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="Telemiño" tvg-name="Telemiño" tvg-chno="32" tvg-logo="https://example.com/logo.png" group-title="Generalista",Telemiño
+https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="RT" tvg-name="RT" tvg-chno="51" tvg-logo="https://example.com/logo.png" group-title="Generalista",RT Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="VIVA TV" tvg-name="VIVA TV" tvg-chno="71" tvg-logo="https://example.com/logo.png" group-title="Generalista",VIVA TV
+https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
+#EXTINF:-1,tvg-id="HIT TV" tvg-name="HIT TV" tvg-chno="71" tvg-logo="https://example.com/logo.png" group-title="Generalista",HIT TV
+http://185.189.225.149/HitTV/index.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8 
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-chno="103" tvg-logo="https://example.com/logo.png" group-title="Generalista",SIC [PT]
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1,tvg-id="TVI" tvg-name="TVI" tvg-chno="104" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVI [PT]
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+
+#EXTINF:-1,tvg-id="ARD" tvg-name="ARD" tvg-chno="111" tvg-logo="https://example.com/logo.png" group-title="Generalista",ARD Das Erste [DE]
+https://daserste-live.ard-mcdn.de/daserste/live/his/int/master.m3u8
+
+#EXTINF:-1,tvg-id="ZDF" tvg-name="ZDF" tvg-chno="112" tvg-logo="https://example.com/logo.png" group-title="Generalista",ZDF [DE]
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+
+#EXTINF:-1,tvg-id="RTL" tvg-name="RTL" tvg-chno="113" tvg-logo="https://example.com/logo.png" group-title="Generalista",RTL [DE]
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+
+#EXTINF:-1,tvg-id="ORF 1" tvg-name="ORF 1" tvg-chno="121" tvg-logo="https://example.com/logo.png" group-title="Generalista",ORF 1 [AT]
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+
+#EXTINF:-1,tvg-id="ORF 2" tvg-name="ORF 2" tvg-chno="122" tvg-logo="https://example.com/logo.png" group-title="Generalista",ORF 2 [AT]
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+
+#EXTINF:-1,tvg-id="ORF 3" tvg-name="ORF 3" tvg-chno="123" tvg-logo="https://example.com/logo.png" group-title="Generalista",ORF 3 [AT]
+https://viamotionhsi.netplus.ch/live/eds/orf3/browser-HLS8/orf3.m3u8
+
+#EXTINF:-1,tvg-id="Canale 5" tvg-name="Canale 5" tvg-chno="135" tvg-logo="https://example.com/logo.png" group-title="Generalista",Canale 5 [IT]
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+
+#EXTINF:-1,tvg-id="Channel 5" tvg-name="Channel 5" tvg-chno="145" tvg-logo="https://example.com/logo.png" group-title="Generalista",Channel 5 [UK]
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://example.com/logo.png" group-title="Generalista",TeuveSat Stream 
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
