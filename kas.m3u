@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="Canal Sur" tvg-name="Canal Sur" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logo_de_Canal_Sur_1.png" group-title="Generalista",Canal Sur
 http://176.65.146.237:8401/play/a09c/index.m3u8
 
-#EXTINF:-1,tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://example.com/logo.png" group-title="Generalista",Telemadrid
+#EXTINF:-1,tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Telemadrid.svg" group-title="Generalista",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1,tvg-id="La Otra" tvg-name="La Otra" tvg-logo="https://example.com/logo.png" group-title="Generalista",La Otra
