@@ -1,10 +1,10 @@
-#EXTINF:-1,tvg-id="TVE La1" tvg-name="TVE La1" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE La1 
+#EXTINF:-1,tvg-id="TVE La 1" tvg-name="TVE La 1" tvg-chno="1" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE La 1 
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1,tvg-id="TVE La2" tvg-name="TVE La2" tvg-chno="2" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE La2 
+#EXTINF:-1,tvg-id="TVE La 2" tvg-name="TVE La 2" tvg-chno="2" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE La 2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1,tvg-id="Antena 3" tvg-name="Antena 3" tvg-chno="2" tvg-logo="https://example.com/logo.png" group-title="Generalista",Antena 3
+EXTINF:-1,tvg-id="Antena 3" tvg-name="Antena 3" tvg-chno="2" tvg-logo="https://example.com/logo.png" group-title="Generalista",Antena 3
 
 
 #EXTINF:-1,tvg-id="Cuatro" tvg-name="Cuatro" tvg-chno="4" tvg-logo="https://example.com/logo.png" group-title="Generalista",Cuatro 
