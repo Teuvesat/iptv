@@ -4,7 +4,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1,tvg-id="TVE La 2" tvg-name="TVE La 2" tvg-chno="2" tvg-logo="https://example.com/logo.png" group-title="Generalista",TVE La 2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
--1,tvg-id="Antena 3" tvg-name="Antena 3" tvg-chno="2" tvg-logo="https://example.com/logo.png" group-title="Generalista",Antena 3
+tvg-id="Antena 3" tvg-name="Antena 3" tvg-chno="2" tvg-logo="https://example.com/logo.png" group-title="Generalista",Antena 3
 
 
 #EXTINF:-1,tvg-id="Cuatro" tvg-name="Cuatro" tvg-chno="4" tvg-logo="https://example.com/logo.png" group-title="Generalista",Cuatro 
