@@ -17,10 +17,10 @@ http://176.65.146.237:8401/play/a09s/index.m3u8
 http://176.65.146.237:8401/play/a09p/index.m3u8
 
 #EXTINF:-1,tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://example.com/logo.png" group-title="Generalista",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 
 #EXTINF:-1,tvg-id="ARD" tvg-name="ARD" tvg-logo="https://example.com/logo.png" group-title="Generalista",ARD Das Erste
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/his/int/master.m3u8
 
 #EXTINF:-1,tvg-id="RT" tvg-name="RT" tvg-logo="https://example.com/logo.png" group-title="Generalista",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
