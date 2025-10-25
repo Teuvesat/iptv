@@ -34,7 +34,7 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="CMM Televisión" tvg-name="CMM Televisión" tvg-chno="12" tvg-logo="https://example.com/logo.png" group-title="Generalista",CMM Televisión
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1 tvg-id="Canal Sur 1" tvg-name="Canal Sur 1" tvg-chno="13" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Logo_de_Canal_Sur_1.png" group-title="Generalista",Canal Sur 1
+#EXTINF:-1 tvg-id="Canal Sur 1" tvg-name="Canal Sur 1" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/512px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png" group-title="Generalista",Canal Sur 1
 http://176.65.146.237:8401/play/a09c/index.m3u8
 
 #EXTINF:-1 tvg-id="Andalucía Televisión" tvg-name="Andalucía Televisión" tvg-chno="14" tvg-logo="https://example.com/logo.png" group-title="Generalista",Andalucía Televisión
