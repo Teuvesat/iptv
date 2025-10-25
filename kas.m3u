@@ -100,7 +100,7 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1,tvg-id="Telemadrid INT" tvg-name="Telemadrid INT" tvg-chno="34" tvg-logo="https://example.com/logo.png" group-title="Generalista",Telemadrid INT
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
-#EXTINF:-1,tvg-id="Canal Sur Andalucía" tvg-name="Canal Sur Andalucía" tvg-chno="35" tvg-logo="https://example.com/logo.png" group-title="Generalista",Canal Sur Andalucía
+#EXTINF:-1,tvg-id="Canal Sur Andalucía" tvg-name="Canal Sur Andalucía" tvg-chno="35" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="Generalista",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 
 #EXTINF:-1,tvg-id="Aragón TV INT" tvg-name="Aragón TV INT" tvg-chno="36" tvg-logo="https://example.com/logo.png" group-title="Generalista",Aragón TV INT
