@@ -106,10 +106,6 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 #EXTINF:-1,tvg-id="Aragón TV INT" tvg-name="Aragón TV INT" tvg-chno="36" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512" group-title="Generalista",Aragón TV INT
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-
-
-
-
 #EXTINF:-1,tvg-id="Canal Parlamento" tvg-name="Canal Parlamento" tvg-chno="50" tvg-logo="https://example.com/logo.png" group-title="Generalista",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 
@@ -121,10 +117,6 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
 #EXTINF:-1,tvg-id="Telemiño" tvg-name="Telemiño" tvg-chno="53" tvg-logo="https://example.com/logo.png" group-title="Generalista",Telemiño
 https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1,tvg-id="DW Español" tvg-name="DW Español" tvg-chno="61" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Generalista",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
@@ -156,10 +148,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 EXTINF:-1,tvg-id="Cubavisión" tvg-name="Cubavisión" tvg-chno="71" tvg-logo="https://example.com/logo.png" group-title="Generalista",Cubavisión
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1,tvg-id="Deluxe Music" tvg-name="Deluxe Music" tvg-chno="81" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="Generalista",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
@@ -180,9 +168,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 
 EXTINF:-1,tvg-id="HIT TV" tvg-name="HIT TV" tvg-chno="87" tvg-logo="https://example.com/logo.png" group-title="Generalista",HIT TV
 http://185.189.225.149/HitTV/index.m3u8
-
-
-
 
 #EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-chno="103" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Generalista",SIC [PT]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -208,22 +193,14 @@ https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 #EXTINF:-1,tvg-id="ORF 3" tvg-name="ORF 3" tvg-chno="123" tvg-logo="https://example.com/logo.png" group-title="Generalista",ORF 3 [AT]
 https://viamotionhsi.netplus.ch/live/eds/orf3/browser-HLS8/orf3.m3u8
 
-#EXTINF:-1,tvg-id="Canale 5" tvg-name="Canale 5" tvg-chno="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png",Canale 5 [IT]
+#EXTINF:-1,tvg-id="Canale 5" tvg-name="Canale 5" tvg-chno="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="Generalista",Canale 5 [IT]
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
 #EXTINF:-1,tvg-id="Channel 5" tvg-name="Channel 5" tvg-chno="145" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="Generalista",Channel 5 [UK]
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-
-
-
-
-
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="Generalista",TeuveSat Stream TEST-1
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="501" tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="TeuveSat",TeuveSat  TEST-1
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 
-#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="x" tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="Generalista",TeuveSat Stream TEST-2
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="502" tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="TeuveSat",TeuveSat  TEST-2
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-
-
-
