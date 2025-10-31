@@ -46,7 +46,7 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1,tvg-id="ETB 2" tvg-name="ETB 2" tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="TeuveSat",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="À Punt" tvg-name="À Punt" tvg-chno="24" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TeuveSat",À Punt
+#EXTINF:-1 tvg-id="A Punt" tvg-name="A Punt" tvg-chno="24" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TeuveSat",A Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-chno="25" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="TeuveSat",TV3
@@ -133,10 +133,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 #EXTINF:-1,tvg-id="Kronehit" tvg-name="Kronehit" tvg-chno="85" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="TeuveSat",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTL 102.5 Caliente" tvg-name="RTL 102.5 Caliente" tvg-chno="86" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat”,RTL 102.5 Caliente
+#EXTINF:-1 tvg-id="RTL Caliente" tvg-name="RTL Caliente" tvg-chno="86" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat”,RTL 102.5 Caliente
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="RTL 102.5 Disco” tvg-name="RTL 102.5 Disco” tvg-chno="87" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat”,RTL 102.5 Disco
+#EXTINF:-1 tvg-id="RTL Disco” tvg-name="RTL Disco” tvg-chno="87" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat”,RTL 102.5 Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 
 #EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-chno="103" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="TeuveSat",SIC [PT]
