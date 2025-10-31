@@ -187,7 +187,7 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1,tvg-id="TFX" tvg-name=“TFX" tvg-chno="163" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="TeuveSat",TFX [FR]
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 
-#EXTINF:-1,tvg-id="M6." tvg-name=“M6” tvg-chno="166" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title=“TeuveSat”,M6 [FR]
+#EXTINF:-1,tvg-id="M6" tvg-name="M6" tvg-chno="166" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="TeuveSat",M6 [FR]
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
 #EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="501" tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="TeuveSat",TeuveSat  TEST-1
