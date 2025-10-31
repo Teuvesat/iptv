@@ -13,10 +13,10 @@ http://176.65.146.237:8401/play/a09s/index.m3u8
 #EXTINF:-1,tvg-id="Telecinco" tvg-name="Telecinco" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="TeuveSat",Telecinco
 http://176.65.146.237:8401/play/a09r/index.m3u8
 
-#EXTINF:-1,tvg-id="TRECE" tvg-name="TRECE" tvg-chno="7" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",TRECE
+#EXTINF:-1,tvg-id="TRECE" tvg-name="TRECE" tvg-chno="7" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TeuveSat",TRECE
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
-#EXTINF:-1,tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-chno="8" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",El Toro TV
+#EXTINF:-1,tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-chno="8" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TeuveSat",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 #EXTINF:-1,tvg-id="FDF" tvg-name="FDF" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="TeuveSat",FDF 
@@ -34,7 +34,7 @@ http://176.65.146.237:8401/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="Aragón TV" tvg-name="Aragón TV" tvg-chno="16" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="TeuveSat",Aragón TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 
-#EXTINF:-1 tvg-id="La7 Murcia" tvg-name="La7 Murcia" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="TeuveSat",La7 Murcia
+EXTINF:-1 tvg-id=“La 7 Región de Murcia” tvg-name="La 7 Región de Murcia" tvg-chno="17" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="TeuveSat",La 7 Región de Murcia
 https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVG" tvg-name="TVG" tvg-chno="19" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="TeuveSat",TVG
@@ -49,19 +49,19 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1,tvg-id="ETB 2" tvg-name="ETB 2" tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="TeuveSat",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Àpunt" tvg-name="Àpunt" tvg-chno="24" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",Àpunt
+#EXTINF:-1 tvg-id="Àpunt" tvg-name="Àpunt" tvg-chno="24" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="TeuveSat",Àpunt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png" group-title="TeuveSat",TV3
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-chno="25" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="TeuveSat",TV3
 https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal 33" tvg-name="Canal 33" tvg-chno="26" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",Canal 33
+#EXTINF:-1 tvg-id="Canal 33" tvg-name="Canal 33" tvg-chno="26" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="TeuveSat",Canal 33
 https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="Esport 3" tvg-name="Esport 3" tvg-chno="27" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",Esport 3
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="Esport 3" tvg-chno="27" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="TeuveSat",Esport 3
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="3CAT Info" tvg-name="3CAT Info" tvg-chno="28" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",3CAT Info
+#EXTINF:-1 tvg-id="3CAT Info" tvg-name="3CAT Info" tvg-chno="28" tvg-logo="https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg" group-title="TeuveSat",3CAT Info
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 
 #EXTINF:-1,tvg-id="TVE 24h" tvg-name="TVE 24h" tvg-chno="29" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="TeuveSat",TVE 24h 
@@ -91,13 +91,13 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1,tvg-id="Canal Parlamento" tvg-name="Canal Parlamento" tvg-chno="50" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 
-#EXTINF:-1,tvg-id="TeleElx" tvg-name="TeleElx" tvg-chno="51" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",TeleElx 
+#EXTINF:-1,tvg-id="TeleElx" tvg-name="TeleElx" tvg-chno="51" tvg-logo="https://graph.facebook.com/teleelx/picture?width=200&height=200" group-title="TeuveSat",TeleElx 
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1,tvg-id="Elche7 TV" tvg-name="Elche7 TV" tvg-chno="52" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",Elche7 TV
+#EXTINF:-1,tvg-id="Elche7 TV" tvg-name="Elche7 TV" tvg-chno="52" tvg-logo="https://pbs.twimg.com/profile_images/1543985670066245632/cX_NvIkT_200x200.jpg" group-title="TeuveSat",Elche7 TV
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
-#EXTINF:-1,tvg-id="Telemiño" tvg-name="Telemiño" tvg-chno="53" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",Telemiño
+#EXTINF:-1,tvg-id="Telemiño" tvg-name="Telemiño" tvg-chno="53" tvg-logo="https://graph.facebook.com/teleminho/picture?width=200&height=200" group-title="TeuveSat",Telemiño
 https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1,tvg-id="DW Español" tvg-name="DW Español" tvg-chno="61" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="TeuveSat",DW Español
@@ -106,7 +106,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1,tvg-id="FRANCE24 Español" tvg-name="FRANCE24 Español" tvg-chno="62" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="TeuveSat",FRANCE24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1,tvg-id="Euronews" tvg-name="Euronews" tvg-chno="63" tvg-logo="https://i.postimg.cc/qRmRrWLW/euronews.png" group-title="TeuveSat",Euronews
+#EXTINF:-1,tvg-id="Euronews" tvg-name="Euronews" tvg-chno="63" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="TeuveSat",Euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
 #EXTINF:-1,tvg-id="RT" tvg-name="RT" tvg-chno="64" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="TeuveSat",RT Español
@@ -151,7 +151,7 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 #EXTINF:-1,tvg-id="RTL" tvg-name="RTL" tvg-chno="113" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="TeuveSat",RTL [DE]
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 
-#EXTINF:-1,tvg-id="ORF 1" tvg-name="ORF 1" tvg-chno="121" tvg-logo="https://example.com/logo.png" group-title=TeuveSat",ORF 1 [AT]
+#EXTINF:-1,tvg-id="ORF 1" tvg-name="ORF 1" tvg-chno="121" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",ORF 1 [AT]
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 
 #EXTINF:-1,tvg-id="ORF 2" tvg-name="ORF 2" tvg-chno="122" tvg-logo="https://example.com/logo.png" group-title="TeuveSat",ORF 2 [AT]
