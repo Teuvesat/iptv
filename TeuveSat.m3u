@@ -133,10 +133,10 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 #EXTINF:-1,tvg-id="Kronehit" tvg-name="Kronehit" tvg-chno="85" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="TeuveSat",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTL Caliente" tvg-name="RTL Caliente" tvg-chno="86" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat”,RTL Caliente
+#EXTINF:-1,tvg-id="RTL Caliente" tvg-name="RTL Caliente" tvg-chno="86" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat",RTL Caliente
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="RTL Disco” tvg-name="RTL Disco” tvg-chno="87" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat”,RTL Disco
+#EXTINF:-1,tvg-id="RTL Disco" tvg-name="RTL Disco" tvg-chno="87" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat",RTL Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 
 #EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-chno="103" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="TeuveSat",SIC [PT]
@@ -163,31 +163,31 @@ https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 #EXTINF:-1,tvg-id="ORF 3" tvg-name="ORF 3" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" group-title="TeuveSat",ORF 3 [AT]
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Italia 1” tvg-name=“Italia” 1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" group-title="TeuveSat",Italia 1 [IT]
+#EXTINF:-1,tvg-id="Italia 1” tvg-name=“Italia” 1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" group-title="TeuveSat",Italia 1 [IT]
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 
-#EXTINF:-1 tvg-id="Rete 4” tvg-name=“Rete” 4 tvg-chno="134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="TeuveSat",Rete 4 [IT]
+#EXTINF:-1,tvg-id="Rete 4” tvg-name=“Rete” 4 tvg-chno="134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="TeuveSat",Rete 4 [IT]
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 
 #EXTINF:-1,tvg-id="Canale 5" tvg-name="Canale 5" tvg-chno="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="TeuveSat",Canale 5 [IT]
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
-#EXTINF:-1 tvg-id="Channel 4” tvg-name="Channel 4” tvg-chno="144" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="TeuveSat",Channel 4 [UK]
+#EXTINF:-1,tvg-id="Channel 4” tvg-name="Channel 4” tvg-chno="144" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="TeuveSat",Channel 4 [UK]
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
 #EXTINF:-1,tvg-id="Channel 5" tvg-name="Channel 5" tvg-chno="145" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="TeuveSat",Channel 5 [UK]
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-#EXTINF:-1 tvg-id="TF1" tvg-name=“TF1” tvg-chno="161" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="TeuveSat",TF1 [FR]
+#EXTINF:-1,tvg-id="TF1" tvg-name=“TF1” tvg-chno="161" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="TeuveSat",TF1 [FR]
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 
-#EXTINF:-1 tvg-id="TF1 Series Films” tvg-name="TF1 Series Films" tvg-chno="162" Series Films" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="TeuveSat",TF1 Series Films [FR]
+#EXTINF:-1,tvg-id="TF1 Series Films” tvg-name="TF1 Series Films" tvg-chno="162" Series Films" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="TeuveSat",TF1 Series Films [FR]
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 
-#EXTINF:-1 tvg-id="TFX" tvg-name=“TFX" tvg-chno="163" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="TeuveSat",TFX [FR]
+#EXTINF:-1,tvg-id="TFX" tvg-name=“TFX" tvg-chno="163" tvg-logo="https://i.imgur.com/d91GcVf.png" group-title="TeuveSat",TFX [FR]
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 
-#EXTINF:-1 tvg-id="M6." tvg-name=“M6” tvg-chno="166" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title=“TeuveSat”,M6 [FR]
+#EXTINF:-1,tvg-id="M6." tvg-name=“M6” tvg-chno="166" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title=“TeuveSat”,M6 [FR]
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
 #EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="501" tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="TeuveSat",TeuveSat  TEST-1
