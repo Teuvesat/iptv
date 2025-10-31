@@ -4,7 +4,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1,tvg-id="TVE La 2" tvg-name="TVE La 2" tvg-chno="2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="TeuveSat",TVE La 2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1,tvg-id="Antena 3" tvg-name="Antena 3" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="TeuveSat",Antena 3
+#EXTINF:-1,tvg-id="Antena 3" tvg-name="Antena 3" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="TeuveSat",Antena 3 Internacional
 http://38.183.182.166:8000/play/a0sx/index.m3u8
 
 #EXTINF:-1,tvg-id="Cuatro" tvg-name="Cuatro" tvg-chno="4" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="TeuveSat",Cuatro 
@@ -33,9 +33,6 @@ http://176.65.146.237:8401/play/a09g/index.m3u8
 
 #EXTINF:-1 tvg-id="Aragón TV" tvg-name="Aragón TV" tvg-chno="16" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="TeuveSat",Aragón TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
-
-#EXTINF:-1 tvg-id=“La 7 Región de Murcia” tvg-name="La 7 Región de Murcia" tvg-chno="17" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="TeuveSat",La 7 Región de Murcia
-https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVG" tvg-name="TVG" tvg-chno="19" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="TeuveSat",TVG
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
@@ -103,7 +100,7 @@ https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3
 #EXTINF:-1,tvg-id="DW Español" tvg-name="DW Español" tvg-chno="61" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TeuveSat",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
-#EXTINF:-1,tvg-id="FRANCE24 Español" tvg-name="FRANCE24 Español" tvg-chno="62" tvg-logo="https://i.postimg.cc/wvbm21St/france24.png" group-title="TeuveSat",FRANCE24 Español
+#EXTINF:-1,tvg-id="FRANCE24 Español" tvg-name="FRANCE24 Español" tvg-chno="62" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="TeuveSat",FRANCE24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1,tvg-id="Euronews" tvg-name="Euronews" tvg-chno="63" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="TeuveSat",Euronews
@@ -164,7 +161,7 @@ https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 
 #EXTINF:-1,tvg-id="ORF 3" tvg-name="ORF 3" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png" group-title="TeuveSat",ORF 3 [AT]
-https://viamotionhsi.netplus.ch/live/eds/orf3/browser-HLS8/orf3.m3u8
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Italia 1” tvg-name=“Italia” 1 tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" group-title="TeuveSat",Italia 1 [IT]
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
