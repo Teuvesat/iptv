@@ -100,7 +100,7 @@ https://stream.emisorasmusicales.net/radio/8030/bikinifm.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/DasInselradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="Das Inselradio",Inselradio
 https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128
 
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/DasInselradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="Das Inselradio",RTL Hit Radio
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="RadioSat" tvg-name="Das Inselradio",RTL Hit Radio
 http://stream.104.6rtl.com/rtl-live/mp3-192
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rfmoficial/picture?width=200&height=200" group-title="RadioSat" tvg-name="RFM Portugal",RFM [PT]
