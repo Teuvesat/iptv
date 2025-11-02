@@ -22,7 +22,7 @@ https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
 #EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero",Onda Cero
 https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
 
-#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="esRadio",esRadio
+#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="esRadio",EsRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
 
 #EXTINF:-1 radio="true" tvg-id="Marca.Radio" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="RadioSat" tvg-name="Radio Marca",Radio Marca
@@ -154,36 +154,36 @@ https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/herriirratia/picture?width=200&height=200" group-title="RadioSat" tvg-name="Radio Popular - Herri Irratia",Radio Popular
 https://nerbioi.radiopopular.eus/radiopopular1
 
-#EXTINF:-1 radio="true" tvg-id="S_Azul.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="SER Azul",SER Radio Azul
+#EXTINF:-1 radio="true" tvg-id="S_Azul.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="SER Azul",XR LOCAL > SER Radio Azul
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AZUL.mp3
 
-#EXTINF:-1 radio="true" tvg-id="S_Elche.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="SER Elche",SER Radio Elche
+#EXTINF:-1 radio="true" tvg-id="S_Elche.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="SER Elche",XR LOCAL > SER Radio Elche
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHE.mp3
 
-#EXTINF:-1 radio="true" tvg-id="S_Orihuela.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="SER Orihuela",SER Radio Orihuela
+#EXTINF:-1 radio="true" tvg-id="S_Orihuela.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="SER Orihuela",XR LOCAL > SER Radio Orihuela
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ORIHUELA.mp3
 
-#EXTINF:-1 radio="true" tvg-id="S_Ourense.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="SER Ourense",SER Radio Orense
+#EXTINF:-1 radio="true" tvg-id="S_Ourense.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="SER Ourense",XR LOCAL > SER Radio Orense
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_OURENSE.mp3
 
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RadioSat" tvg-name="COPE Elche",COPE Elche
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RadioSat" tvg-name="COPE Elche",XR LOCAL > COPE Elche
 https://stream-159.zeno.fm/fh1dewq8pxduv
 
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RadioSat" tvg-name="COPE Radio Sureste",COPE Radio Sureste
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RadioSat" tvg-name="COPE Radio Sureste",XR LOCAL > COPE Radio Sureste
 https://sonic.mediatelekom.net/8538/live
 
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RadioSat" tvg-name="COPE Ourense",COPE Orense
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RadioSat" tvg-name="COPE Ourense",XR LOCAL > COPE Orense
 https://wecast19-h-cloud.flumotion.com/copesedes/orense.mp3
 
-#EXTINF:-1 radio="true" tvg-id="OC_Elche.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Elche",Onda Cero Elche
+#EXTINF:-1 radio="true" tvg-id="OC_Elche.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Elche",XR LOCAL > Onda Cero Elche
 https://atres-live.ondacero.es/live/delegaciones/oc/elche/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="OC_VegaBaja.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Vega Baja",Onda Cero Vega Baja
+#EXTINF:-1 radio="true" tvg-id="OC_VegaBaja.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Vega Baja",XR LOCAL > Onda Cero Vega Baja
 https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Ourense",Onda Cero Orense
+#EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Ourense",XR LOCAL > Onda Cero Orense
 https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="esRadio Elche",esRadio Elche
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="esRadio Elche",XR LOCAL > esRadio Elche
 https://ns6.emisionlocal.com/proxy/esradioelche?mp=/stream
 
