@@ -139,23 +139,8 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/pl
 #EXTINF:-1,tvg-id="RTL Disco" tvg-name="RTL Disco" tvg-chno="87" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="TeuveSat",RTL Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 
-#EXTINF:-1,tvg-id="VIVA TV" tvg-name="VIVA TV" tvg-chno="86" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat",VIVA TV [Stream 1]
+#EXTINF:-1,tvg-id="VIVA TV" tvg-name="VIVA TV" tvg-chno="86" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat",VIVA TV
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
-
-#EXTINF:-1,tvg-id="VIVA TV" tvg-name="VIVA TV" tvg-chno="87” tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat",VIVA TV [Stream 2]
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
-
-#EXTINF:-1,tvg-id="VIVA TV" tvg-name="VIVA TV" tvg-chno="88” tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat",VIVA TV [Stream 3]
-http://autopilot.catcast.tv/content/39575/index.m3u8
-
-#EXTINF:-1,tvg-id="VIVA TV" tvg-name="VIVA TV" tvg-chno="89” tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat",VIVA TV [Stream 4]
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
-
-#EXTINF:-1,tvg-id="VIVA TV" tvg-name="VIVA TV" tvg-chno=“90” tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat",VIVA TV [Stream 5]
-https://hls.goodgame.ru/hls/180805.m3u8
-
-#EXTINF:-1,tvg-id="Clubland TV"  tvg-name="Clubland TV" tvg-chno="91" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat”,Clubland TV
-http://live.aatw.simplestreamcdn.com/clubland/live.m3u8
 
 #EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-chno="103" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="TeuveSat",SIC [PT]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
