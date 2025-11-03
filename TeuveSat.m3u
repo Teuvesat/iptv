@@ -4,7 +4,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1,tvg-id="TVE La 2" tvg-name="TVE La 2" tvg-chno="2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="TeuveSat",TVE La 2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1,tvg-id="Antena 3" tvg-name="Antena 3" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="TeuveSat",Antena 3 Internacional
+#EXTINF:-1,tvg-id="Antena 3" tvg-name="Antena 3" tvg-chno="3" tvg-logo="https://camo.githubusercontent.com/3e8c67ce5cc8f7c8378f2e25e7dca48d0aa4d8a02502cf4f577814cf11dd3ba1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32302f416e74656e615f335f253238323031372532392e7376672f33323070782d416e74656e615f335f253238323031372532392e7376672e706e67" group-title="TeuveSat",Antena 3 Internacional
 http://38.183.182.166:8000/play/a0sx/index.m3u8
 
 #EXTINF:-1,tvg-id="Cuatro" tvg-name="Cuatro" tvg-chno="4" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="TeuveSat",Cuatro 
@@ -154,7 +154,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1,tvg-id="VIVA TV" tvg-name="VIVA TV" tvg-chno=“90” tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat",VIVA TV [Stream 5]
 https://hls.goodgame.ru/hls/180805.m3u8
 
-#EXTINF:-1,tvg-id=“Clubland TV”  tvg-name=“Clubland TV tvg-chno=“91” tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat”,Clubland TV
+#EXTINF:-1,tvg-id="Clubland TV"  tvg-name="Clubland TV" tvg-chno="91" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="TeuveSat”,Clubland TV
 http://live.aatw.simplestreamcdn.com/clubland/live.m3u8
 
 #EXTINF:-1,tvg-id="SIC" tvg-name="SIC" tvg-chno="103" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="TeuveSat",SIC [PT]
