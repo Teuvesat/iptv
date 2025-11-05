@@ -19,11 +19,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.a
 #EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RadioSat" tvg-name="COPE",COPE
 https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
 
-#EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero",Onda Cero
-https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
-
 #EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="esRadio",EsRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+
+#EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero",Onda Cero
+https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
 
 #EXTINF:-1 radio="true" tvg-id="Marca.Radio" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="RadioSat" tvg-name="Radio Marca",Radio Marca
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
@@ -175,6 +175,9 @@ https://sonic.mediatelekom.net/8538/live
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RadioSat" tvg-name="COPE Ourense",XR > COPE Orense
 https://wecast19-h-cloud.flumotion.com/copesedes/orense.mp3
 
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="esRadio Elche",XR > EsRadio Elche
+https://ns6.emisionlocal.com/proxy/esradioelche?mp=/stream
+
 #EXTINF:-1 radio="true" tvg-id="OC_Elche.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Elche",XR > Onda Cero Elche
 https://atres-live.ondacero.es/live/delegaciones/oc/elche/master.m3u8
 
@@ -183,7 +186,4 @@ https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Ourense",XR > Onda Cero Orense
 https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8
-
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="esRadio Elche",XR > EsRadio Elche
-https://ns6.emisionlocal.com/proxy/esradioelche?mp=/stream
 
