@@ -203,12 +203,13 @@ https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
 #EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="501" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TeuveSat",TeuveSat  TEST-1
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8
-
-
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 
 #EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="502" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TeuveSat",TeuveSat  TEST-2
 https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8
 
 #EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="503" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TeuveSat",TeuveSat  TEST-3
 https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
+
+#EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="504" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TeuveSat",TeuveSat  TEST-4
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8
