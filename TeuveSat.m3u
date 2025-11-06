@@ -109,7 +109,10 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1,tvg-id="RT Español" tvg-name="RT Español" tvg-chno="64" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="TeuveSat",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1,tvg-id="TeleSur" tvg-name="TeleSur" tvg-chno="65" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="TeuveSat",TeleSur
+#EXTINF:-1 tvg-id="TN Todo Noticias" vg-name="TN Todo Noticias" tvg-chno="65" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="TeuveSat",TN Todo Noticias
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8
+
+#EXTINF:-1,tvg-id="TeleSur" tvg-name="TeleSur" tvg-chno="66" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="TeuveSat",TeleSur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-chno="67" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="TeuveSat",CNN
