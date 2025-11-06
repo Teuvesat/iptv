@@ -212,4 +212,5 @@ https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.
 https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 
 #EXTINF:-1,tvg-id="TeuveSat" tvg-name="TeuveSat" tvg-chno="504" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TeuveSat",TeuveSat  TEST-4
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIzIDU6MTc6NiBQTSZoYXNoX3ZhbHVlPUpFcGdDakNsai9DM29pRFBpMEprL0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lOWExOTEzZC04MzQwLTQyNWItYWVjNC0wNGMxMzYxM2E1NjE=/
+
