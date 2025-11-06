@@ -187,3 +187,5 @@ https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Ourense",XR > Onda Cero Orense
 https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8
 
+#EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/nw-1x1-2.png" group-title="RadioSat" tvg-name="NW Radio",XR > NW Radio
+http://hubble.shoutca.st:8120/stream
