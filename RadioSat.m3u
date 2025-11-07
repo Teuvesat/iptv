@@ -97,6 +97,9 @@ https://stream.emisorasmusicales.net/radio/8000/activafm.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://media.emisorasmusicales.net/wp-content/uploads/2020/03/04134801/logo-BIKINI-FM-web-1.png" group-title="RadioSat" tvg-name="Bikini FM",Bikini FM
 https://stream.emisorasmusicales.net/radio/8030/bikinifm.mp3
 
+#EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/maximal-perfil-02.jpg?w=300" group-title="RadioSat" tvg-name="Maximal",Maximal Radio
+http://hubble.shoutca.st:8120/stream
+
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/DasInselradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="Das Inselradio",Inselradio Mallorca [DE]
 https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128
 
@@ -187,5 +190,4 @@ https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Ourense",XR > Onda Cero Orense
 https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/nw-1x1-2.png" group-title="RadioSat" tvg-name="NW Radio",NW Radio
-http://hubble.shoutca.st:8120/stream
+
