@@ -44,7 +44,7 @@ https://radioserver12.profesionalhosting.com/proxy/pkg156993/stream
 https://cast5.servcast.net/proxy/inter/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioespana.es/picture?width=200&height=200" group-title="RadioSat" tvg-name="Radio Espa√±a",Radio España
-https://stream.zeno.fm/ocinyyji4rntv
+https://stream-158.zeno.fm/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkRUaWRac3V4U2FxNmxyMTJ6Y2pEU1EiLCJpYXQiOjE3NjI1MDY2NTEsImV4cCI6MTc2MjUwNjcxMX0.cXNvYVtH_hHAanVuWUyDhAPvd1jV8UgTTFCTEkzIRHM
 
 #EXTINF:-1 radio="true" tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="RadioSat" tvg-name="LOS40",Los 40
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
