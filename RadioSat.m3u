@@ -190,5 +190,3 @@ https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Ourense",XR > Onda Cero Orense
 https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Cero Ourense",RadioSat  TEST-1
-https://wearesugar.live/radiochannel/sugar/
