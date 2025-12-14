@@ -207,5 +207,71 @@ https://stream.rtlradio.de/rtl-de-event01/mp3-128
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",NDR Schlager
 https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
 
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern
+https://s5-webradio.antenne.de/antenne
+
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Relax
 https://s5-webradio.antenne.de/relax
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Bayerische Weihnacht
+https://s1-webradio.antenne.de/bayerische-weihnacht/stream/mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Weihnachtslounge
+https://s3-webradio.antenne.de/lounge/stream/mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Abstrait
+https://stream.laut.fm/abstrait
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live
+https://stream.sunshine-live.de/hq/mp3-192
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Trance
+https://sunsl.streamabc.net/sunsl-trance-mp3-192-6936250
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Classics
+https://sunsl.streamabc.net/sunsl-classics-mp3-192-8423201
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Die 90er
+https://sunsl.streamabc.net/sunsl-90er-mp3-192-9697679 external stream link
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Die 2000er
+https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Eins Live
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Eins Live Diggi
+https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",SWR 3
+https://liveradio.swr.de/sw282p3/swr3/play.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Radio Regenbogen
+https://streams.regenbogen.de/rr-freiburg-128-mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Radio Regenbogen - 90er Dance
+https://stream.regenbogen.de/90erdance/mp3-12
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Radio Regenbogen - 90er Dance
+https://stream.regenbogen.de/90erdance/mp3-12
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Radio Regenbogen - Soft Lazy
+https://stream.regenbogen.de/softlazy/mp3-128
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Radio Regenbogen - Christmas Hits
+https://stream.regenbogen.de/christmas/aac-128
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Hands Up Lovers
+https://stream.laut.fm/handsuplovers
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Techno Lovers FM - Handsup
+https://stream.technolovers.fm/handsup
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Mallorca 1
+http://streamserver3.radioproducciones.com:10990/mallorcaeins-1
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",WRadio
+http://stream.wradio.es:7000/;
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Sugar Hits & Throwbacks
+https://wearesugar.live/#
