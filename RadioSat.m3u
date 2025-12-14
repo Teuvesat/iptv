@@ -194,5 +194,18 @@ https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8
 
 
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RadioSat" tvg-name="***",RTL Deutschlands Hit Radio
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Deutschlands Hit Radio
 https://stream.rtlradio.de/rtl-de-national/mp3-192
+
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Die Besten Hits Aller Zeiten
+https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Weihnachten
+https://stream.rtlradio.de/rtl-de-event01/mp3-128
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",NDR Schlager
+https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Relax
+https://s5-webradio.antenne.de/relax
