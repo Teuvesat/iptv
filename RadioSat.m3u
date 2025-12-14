@@ -53,7 +53,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac
 
 #EXTINF:-1 radio="true" tvg-id="Los40Dance.Radio" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" group-title="RadioSat" tvg-name="LOS40 Dance",Los 40 Dance
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
+http://stream.radiogandia.com:8080/maxima_aac
 
 #EXTINF:-1 radio="true" tvg-id="CadenaDial.Radio" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="RadioSat" tvg-name="Cadena Dial",Cadena Dial
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac
