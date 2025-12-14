@@ -106,9 +106,6 @@ https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="RadioSat" tvg-name="Das Inselradio",RTL Hit Radio [DE]
 http://stream.104.6rtl.com/rtl-live/mp3-192
 
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rfmoficial/picture?width=200&height=200" group-title="RadioSat" tvg-name="RFM Portugal",RFM [PT]
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
-
 #EXTINF:-1 radio="true" tvg-id="OndaMadrid.Radio" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="RadioSat" tvg-name="Onda Madrid",Onda Madrid
 https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8
 
@@ -275,3 +272,30 @@ http://stream.wradio.es:7000/;
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Sugar Hits & Throwbacks
 https://www.radio-espana.es/sugar-radio-mainalnd-spain
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",M80 Rádio
+https://stream-icy.bauermedia.pt/m80.mp3 external stream link
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",M80 Rádio - 60s
+https://stream-icy.bauermedia.pt/m8060.aac
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",M80 Rádio - 70s
+https://stream-icy.bauermedia.pt/m8070.aac
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",M80 Rádio - 70s
+https://stream-icy.bauermedia.pt/m8070.aac
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",M80 Rádio - Disco
+https://stream-icy.bauermedia.pt/m80disco.aac
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",Rádio Regional Chaves
+https://play.radioregional.pt/stream/4/;
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rfmoficial/picture?width=200&height=200" group-title="RadioSat" tvg-name="RFM Portugal",RFM [PT]
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",RFM - Oceano Pacifico
+https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFIC.mp3 
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",RFM - Latinas
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
