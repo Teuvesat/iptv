@@ -1,16 +1,16 @@
-#EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RadioSat" tvg-name="RadioSat",RNE Radio 1
+#EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rne-1.jpg" group-title="RadioSat" tvg-name="RadioSat",RNE Radio 1
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RadioSat" tvg-name="Radio Cl√°sica RNE",RNE Radio 2
+#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rne-2.jpg" group-title="RadioSat" tvg-name="Radio Cl√°sica RNE",RNE Radio 2
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RadioSat" tvg-name="Radio 3 RNE",RNE Radio 3
+#EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rne-2.jpg" group-title="RadioSat" tvg-name="Radio 3 RNE",RNE Radio 3
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="Radio4RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RadioSat" tvg-name="R√†dio 4 RNE",RNE Radio 4
+#EXTINF:-1 radio="true" tvg-id="Radio4RNE.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rne-4.jpg" group-title="RadioSat" tvg-name="R√†dio 4 RNE",RNE Radio 4
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="RNE5.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RadioSat" tvg-name="Radio 5 RNE",RNE Radio 5
+#EXTINF:-1 radio="true" tvg-id="RNE5.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rne-5.jpg" group-title="RadioSat" tvg-name="Radio 5 RNE",RNE Radio 5
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RadioSat" tvg-name="Cadena SER",SER
