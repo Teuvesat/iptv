@@ -112,7 +112,7 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilz
 #EXTINF:-1 radio="true" tvg-id="CanalSur.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-sur-radio.jpg" group-title="RadioSat" tvg-name="Canal Sur Radio",Canal Sur Radio
 https://rtva-live-radio.flumotion.com/rtva/csr.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioAndaluciaInformacion.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-sur-info.jpg" group-title="RadioSat" tvg-name="Radio Andaluc√≠a Informaci√≥n",Canal Sur Radio Info
+#EXTINF:-1 radio="true" tvg-id="RadioAndaluciaInformacion.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-sur-info.jpg" group-title="RadioSat" tvg-name="Radio Andaluc√≠a Informaci√≥n",Canal Sur Radio Información
 https://rtva-live-radio.flumotion.com/rtva/rai.mp3
 
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-sur-musica.jpg" group-title="RadioSat" tvg-name="Canal Sur Radio Musica",Canal Sur Radio Música
