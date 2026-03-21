@@ -229,6 +229,9 @@ https://play.radioregional.pt/stream/4/;
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm.jpg" group-title="RadioSat" tvg-name="RFM Portugal",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
 
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/njoy.jpg" group-title="RadioSat" tvg-name="***",NJOY
+https://f141.rndfnk.com/ard/ndr/njoy/live/mp3/128/stream.mp3?cid=01FBRKKTM6TVGA3B3W6Y8NMXK8&sid=3BFfrVgLdHaHDFckmXiGxaXfRH6&token=qVEAhQvkU10PZT4FicrrbPnmY_ImsmZWgo5V4KX5x4k&tvf=YGuMIAvpnhhmMTQxLnJuZGZuay5jb20
+
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm-oceano-pacifico.jpg" group-title="RadioSat" tvg-name="***",RFM - Oceano Pacifico
 https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFIC.mp3 
 
