@@ -163,31 +163,17 @@ https://atres-live.ondacero.es/live/delegaciones/oc/elche/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="OC_VegaBaja.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero-vega-baja.jpg" group-title="RadioSat" tvg-name="Onda Cero Vega Baja",Onda Cero Vega Baja
 https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 
-
-
-
-
-
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rtl-radio.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Deutschlands Hit Radio
 https://stream.rtlradio.de/rtl-de-national/mp3-192
-
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rtl-radio-hits.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Die Besten Hits
 https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
 
-
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ndr-schlager.jpg" group-title="RadioSat" tvg-name="***",NDR Schlager
 https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
 
-
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ndr-kultur.jpg" group-title="RadioSat" tvg-name="***",NDR Kultur
 http://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/njoy.jpg" group-title="RadioSat" tvg-name="***",NJOY
-http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3 
-
-
-
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern
 https://s5-webradio.antenne.de/antenne
