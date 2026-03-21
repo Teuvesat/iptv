@@ -19,17 +19,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.a
 #EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cope.jpg" group-title="RadioSat" tvg-name="COPE",COPE
 https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
 
-#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio.jpg" group-title="RadioSat" tvg-name="esRadio",EsRadio
-https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
-
 #EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero.jpg" group-title="RadioSat" tvg-name="Onda Cero",Onda Cero
 https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
 
+#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio.jpg" group-title="RadioSat" tvg-name="esRadio",EsRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+
 #EXTINF:-1 radio="true" tvg-id="Marca.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-marca.jpg" group-title="RadioSat" tvg-name="Radio Marca",Radio Marca
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
-
-#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-libertad.jpg" group-title="RadioSat" tvg-name="Radio Libertad",Radio Libertad
-https://server9.emitironline.com:19482/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/capital-radio.jpg" group-title="RadioSat" tvg-name="Capital Radio",Capital Radio
 https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8
@@ -42,6 +39,9 @@ https://radioserver12.profesionalhosting.com/proxy/pkg156993/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-intercontinental.jpg" group-title="RadioSat" tvg-name="Radio Intercontinental",Radio Intercontinental
 https://cast5.servcast.net/proxy/inter/stream
+
+#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-libertad.jpg" group-title="RadioSat" tvg-name="Radio Libertad",Radio Libertad
+https://server9.emitironline.com:19482/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-espana.jpg" group-title="RadioSat" tvg-name="Radio Espa√±a",Radio España
 https://stream-158.zeno.fm/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkRUaWRac3V4U2FxNmxyMTJ6Y2pEU1EiLCJpYXQiOjE3NjI1MDY2NTEsImV4cCI6MTc2MjUwNjcxMX0.cXNvYVtH_hHAanVuWUyDhAPvd1jV8UgTTFCTEkzIRHM
@@ -94,8 +94,8 @@ https://stream.emisorasmusicales.net/radio/8000/activafm.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/bikini-fm.jpg" group-title="RadioSat" tvg-name="Bikini FM",Bikini FM
 https://stream.emisorasmusicales.net/radio/8030/bikinifm.mp3
 
-#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/inselradio.jpg" group-title="RadioSat" tvg-name="Das Inselradio",Inselradio Mallorca
-https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/topradio.jpg" group-title="RadioSat" tvg-name="***",Top Radio
+https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cmm.jpg" group-title="RadioSat" tvg-name="CMM Radio",CMM Radio
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/format/applehttp/.m3u8
@@ -103,23 +103,35 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilz
 #EXTINF:-1 radio="true" tvg-id="CanalSur.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-sur-radio.jpg" group-title="RadioSat" tvg-name="Canal Sur Radio",Canal Sur Radio
 https://rtva-live-radio.flumotion.com/rtva/csr.mp3
 
+#EXTINF:-1 radio="true" tvg-id="CanalFiesta.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-fiesta-radio.jpg" group-title="RadioSat" tvg-name="Canal Fiesta Radio",Canal Sur Radio Fiesta
+https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
+
 #EXTINF:-1 radio="true" tvg-id="RadioAndaluciaInformacion.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-sur-info.jpg" group-title="RadioSat" tvg-name="Radio Andaluc√≠a Informaci√≥n",Canal Sur Radio Información
 https://rtva-live-radio.flumotion.com/rtva/rai.mp3
 
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-sur-musica.jpg" group-title="RadioSat" tvg-name="Canal Sur Radio Musica",Canal Sur Radio Música
 https://rtva-live-radio.flumotion.com/rtva/csm.mp3
 
-#EXTINF:-1 radio="true" tvg-id="CanalFiesta.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-fiesta-radio.jpg" group-title="RadioSat" tvg-name="Canal Fiesta Radio",Canal Sur Radio Fiesta
-https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
-
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-extremadura.jpg" group-title="RadioSat" tvg-name="Canal Extremadura Radio",Canal Extremadura Radio
 https://canalextremadura-audio.flumotion.cloud/canalextremaduralive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-extremadura.jpg" group-title="RadioSat" tvg-name="***",Canal Extremadura Radio 2
+https://dpdcrurkn82q1.cloudfront.net/wct-24e14bfa-c6bf-4b58-9b12-dda97484f818/continuous/4d975a39-0232-43e0-9277-9503453777a9/radio-live/index.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/onda-regional.jpg" group-title="RadioSat" tvg-name="Onda Regional de Murcia",Onda Regional Murcia
 https://crmlive.redctnet.es/liveedge/orm/orm/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="AragonRadio.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/aragon-tv.jpg" group-title="RadioSat" tvg-name="Arag√≥n Radio Zaragoza",Aragón Radio
 https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/catradio.jpg" group-title="RadioSat" tvg-name="***",Cat Ràdio
+https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ib3.jpg" group-title="RadioSat" tvg-name="***",IB3 Ràdio
+https://streaming01.ib3radio.com/ib3radio.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rtpa.jpg" group-title="RadioSat" tvg-name="RPA",RPA
+https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="RadioGalega.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-galega.jpg" group-title="RadioSat" tvg-name="Radio Galega",Radio Galega
 https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
@@ -130,11 +142,8 @@ https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiovoz.jpg" group-title="RadioSat" tvg-name="Radio Voz",Radio Voz
 https://live.radiovoz.es/mp3/stream_santiago.mp3
 
-#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rtpa.jpg" group-title="RadioSat" tvg-name="RPA",RPA
-https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8
-
-#EXTINF:-1 radio="true" tvg-id="S_Azul.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-azul.jpg" group-title="RadioSat" tvg-name="SER Azul",Radio Azul SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AZUL.mp3
+#EXTINF:-1 radio="true" tvg-id="S_Ourense.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-orense.jpg" group-title="RadioSat" tvg-name="SER Ourense",Radio Orense SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_OURENSE.mp3
 
 #EXTINF:-1 radio="true" tvg-id="S_Elche.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-elche.jpg" group-title="RadioSat" tvg-name="SER Elche",Radio Elche SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHE.mp3
@@ -142,20 +151,20 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHE.
 #EXTINF:-1 radio="true" tvg-id="S_Orihuela.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-orihuela.jpg" group-title="RadioSat" tvg-name="SER Orihuela",Radio Orihuela SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ORIHUELA.mp3
 
-#EXTINF:-1 radio="true" tvg-id="S_Ourense.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-orense.jpg" group-title="RadioSat" tvg-name="SER Ourense",Radio Orense SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_OURENSE.mp3
-
-#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cope-elche.jpg" group-title="RadioSat" tvg-name="COPE Elche",COPE Elche
-https://stream-159.zeno.fm/fh1dewq8pxduv
+#EXTINF:-1 radio="true" tvg-id="S_Azul.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-azul.jpg" group-title="RadioSat" tvg-name="SER Azul",Radio Azul SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AZUL.mp3
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cope-verin.jpg" group-title="RadioSat" tvg-name="***",COPE Verín
 https://wecast-bl02.flumotion.com/copesedes/verin.mp3
 
+#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cope-elche.jpg" group-title="RadioSat" tvg-name="COPE Elche",COPE Elche
+https://stream-159.zeno.fm/fh1dewq8pxduv
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sirena.jpg" group-title="RadioSat" tvg-name="***",Radio Sirena COPE
+https://str1.mediatelekom.net/proxy/radiosirena/stream
+
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sureste-cope.jpg" group-title="RadioSat" tvg-name="COPE Radio Sureste",Radio Sureste COPE 
 https://sonic.mediatelekom.net/8538/live
-
-#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio-elche.jpg" group-title="RadioSat" tvg-name="esRadio Elche",EsRadio Elche
-https://ns6.emisionlocal.com/proxy/esradioelche?mp=/stream
 
 #EXTINF:-1 radio="true" tvg-id="OC_Elche.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero-elche.jpg" group-title="RadioSat" tvg-name="Onda Cero Elche",Onda Cero Elche
 https://atres-live.ondacero.es/live/delegaciones/oc/elche/master.m3u8
@@ -163,41 +172,17 @@ https://atres-live.ondacero.es/live/delegaciones/oc/elche/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="OC_VegaBaja.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero-vega-baja.jpg" group-title="RadioSat" tvg-name="Onda Cero Vega Baja",Onda Cero Vega Baja
 https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rtl-radio.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Deutschlands Hit Radio
-https://stream.rtlradio.de/rtl-de-national/mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio-elche.jpg" group-title="RadioSat" tvg-name="esRadio Elche",EsRadio Elche
+https://ns6.emisionlocal.com/proxy/esradioelche?mp=/stream
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rtl-radio-hits.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Die Besten Hits
-https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/wradio.jpg" group-title="RadioSat" tvg-name="***",WRadio
+http://stream.wradio.es:7000/;
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ndr-schlager.jpg" group-title="RadioSat" tvg-name="***",NDR Schlager
-https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/inselradio.jpg" group-title="RadioSat" tvg-name="Das Inselradio",Inselradio Mallorca
+https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ndr-kultur.jpg" group-title="RadioSat" tvg-name="***",NDR Kultur
-http://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern
-https://s5-webradio.antenne.de/antenne
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern-relax.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Relax
-https://s5-webradio.antenne.de/relax
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern-bw.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Bayerische Weihnacht
-https://s1-webradio.antenne.de/bayerische-weihnacht/stream/mp3
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern-wl.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Weihnachtslounge
-https://s3-webradio.antenne.de/lounge/stream/mp3
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/abstrait.jpg" group-title="RadioSat" tvg-name="***",Abstrait Radio
-https://stream.laut.fm/abstrait
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/sunshine-live.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live
-https://stream.sunshine-live.de/hq/mp3-192
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-trance.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Trance
-https://sunsl.streamabc.net/sunsl-trance-mp3-192-6936250
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-2000.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Die 2000er
-https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/mallorca1.jpg" group-title="RadioSat" tvg-name="***",Mallorca 1
+https://streamserver3.radioproducciones.com:10990/mallorcaeins-1
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/1live.jpg" group-title="RadioSat" tvg-name="***",Eins Live
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
@@ -208,8 +193,53 @@ https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/swr3.jpg" group-title="RadioSat" tvg-name="***",SWR 3
 https://liveradio.swr.de/sw282p3/swr3/play.mp3
 
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/dasding.jpg" group-title="RadioSat" tvg-name="***",SWR Dasding
+https://d131.rndfnk.com/ard/swr/dasding/live/mp3/128/stream.mp3?cid=01FBVQWZT2B1KGPFJ7TDHQ1Y2B&sid=3BFi8tWsJKmF1gM2dJUDOF3GQ1T&token=ktuNSUyoXmbon51lhLdY-0whFY90xwlAtnCxucDZ1Ug&tvf=Zr8BCRHqnhhkMTMxLnJuZGZuay5jb20
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ndr-kultur.jpg" group-title="RadioSat" tvg-name="***",NDR Kultur
+http://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ndr-schlager.jpg" group-title="RadioSat" tvg-name="***",NDR Schlager
+https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/njoy.jpg" group-title="RadioSat" tvg-name="***",NJOY
+https://f141.rndfnk.com/ard/ndr/njoy/live/mp3/128/stream.mp3?cid=01FBRKKTM6TVGA3B3W6Y8NMXK8&sid=3BFfrVgLdHaHDFckmXiGxaXfRH6&token=qVEAhQvkU10PZT4FicrrbPnmY_ImsmZWgo5V4KX5x4k&tvf=YGuMIAvpnhhmMTQxLnJuZGZuay5jb20
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rtl-radio.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Deutschlands Hit Radio
+https://stream.rtlradio.de/rtl-de-national/mp3-192
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rtl-radio-hits.jpg" group-title="RadioSat" tvg-name="***",RTL Radio - Die Besten Hits
+https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern
+https://s5-webradio.antenne.de/antenne
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern-relax.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Relax
+https://s5-webradio.antenne.de/relax
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern-wl.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Weihnachtslounge
+https://s3-webradio.antenne.de/lounge/stream/mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern-bw.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern - Bayerische Weihnacht
+https://s1-webradio.antenne.de/bayerische-weihnacht/stream/mp3
+
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-regenbogen.jpg" group-title="RadioSat" tvg-name="***",Radio Regenbogen
 https://streams.regenbogen.de/rr-freiburg-128-mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/sunshine-live.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live
+https://stream.sunshine-live.de/hq/mp3-192
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-90.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Die 90er
+https://sunsl.streamabc.net/sunsl-eurodance-mp3-192-9832422?sABC=69or7o91%230%230nrr933o28210pq24q132r107s143432%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1774091153
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-2000.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Die 2000er
+https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-trance.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Trance
+https://sunsl.streamabc.net/sunsl-trance-mp3-192-6936250
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/abstrait.jpg" group-title="RadioSat" tvg-name="***",Abstrait Radio
+https://stream.laut.fm/abstrait
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/hands-up-lovers.jpg" group-title="RadioSat" tvg-name="***",Hands Up Lovers
 https://stream.laut.fm/handsuplovers
@@ -217,20 +247,8 @@ https://stream.laut.fm/handsuplovers
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/technolovers-fm.jpg" group-title="RadioSat" tvg-name="***",Techno Lovers FM - Handsup
 https://stream.technolovers.fm/handsup
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/wradio.jpg" group-title="RadioSat" tvg-name="***",WRadio
-http://stream.wradio.es:7000/;
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/m80.jpg" group-title="RadioSat" tvg-name="***",M80 Rádio
-https://stream-icy.bauermedia.pt/m80.mp3 external stream link
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-regional.jpg" group-title="RadioSat" tvg-name="***",Rádio Regional
-https://play.radioregional.pt/stream/4/;
-
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm.jpg" group-title="RadioSat" tvg-name="RFM Portugal",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/njoy.jpg" group-title="RadioSat" tvg-name="***",NJOY
-https://f141.rndfnk.com/ard/ndr/njoy/live/mp3/128/stream.mp3?cid=01FBRKKTM6TVGA3B3W6Y8NMXK8&sid=3BFfrVgLdHaHDFckmXiGxaXfRH6&token=qVEAhQvkU10PZT4FicrrbPnmY_ImsmZWgo5V4KX5x4k&tvf=YGuMIAvpnhhmMTQxLnJuZGZuay5jb20
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm-oceano-pacifico.jpg" group-title="RadioSat" tvg-name="***",RFM - Oceano Pacifico
 https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFIC.mp3 
@@ -238,29 +256,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFIC.m
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm-latinas.jpg" group-title="RadioSat" tvg-name="***",RFM - Latinas
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sirena.jpg" group-title="RadioSat" tvg-name="***",Radio Sirena COPE
-https://str1.mediatelekom.net/proxy/radiosirena/stream
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/m80.jpg" group-title="RadioSat" tvg-name="***",M80 Rádio
+https://stream-icy.bauermedia.pt/m80.mp3 external stream link
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/topradio.jpg" group-title="RadioSat" tvg-name="***",Top Radio
-https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/mallorca1.jpg" group-title="RadioSat" tvg-name="***",Mallorca 1
-https://streamserver3.radioproducciones.com:10990/mallorcaeins-1
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ib3.jpg" group-title="RadioSat" tvg-name="***",IB3 Ràdio
-https://streaming01.ib3radio.com/ib3radio.mp3
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/catradio.jpg" group-title="RadioSat" tvg-name="***",Cat Ràdio
-https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-extremadura.jpg" group-title="RadioSat" tvg-name="***",Canal Extremadura Radio
-https://dpdcrurkn82q1.cloudfront.net/wct-24e14bfa-c6bf-4b58-9b12-dda97484f818/continuous/4d975a39-0232-43e0-9277-9503453777a9/radio-live/index.m3u8
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/dasding.jpg" group-title="RadioSat" tvg-name="***",SWR Dasding
-https://d131.rndfnk.com/ard/swr/dasding/live/mp3/128/stream.mp3?cid=01FBVQWZT2B1KGPFJ7TDHQ1Y2B&sid=3BFi8tWsJKmF1gM2dJUDOF3GQ1T&token=ktuNSUyoXmbon51lhLdY-0whFY90xwlAtnCxucDZ1Ug&tvf=Zr8BCRHqnhhkMTMxLnJuZGZuay5jb20
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-90.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Die 90er
-https://sunsl.streamabc.net/sunsl-eurodance-mp3-192-9832422?sABC=69or7o91%230%230nrr933o28210pq24q132r107s143432%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1774091153
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-regional.jpg" group-title="RadioSat" tvg-name="***",Rádio Regional
+https://play.radioregional.pt/stream/4/;
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="***",RadioSat TEST
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
