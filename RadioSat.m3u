@@ -22,7 +22,7 @@ https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero.jpg" group-title="RadioSat ES" tvg-name="Onda Cero",Onda Cero
 https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio.jpg" group-title="RadioSat ES" tvg-name="esRadio",esRadio
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio.jpg" group-title="RadioSat ES" tvg-name="esRadio",EsRadio
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-marca.jpg" group-title="RadioSat ES" tvg-name="Radio Marca",Radio Marca
@@ -148,37 +148,37 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHE.
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-orihuela.jpg" group-title="Regional" tvg-name="Radio Orihuela SER",Radio Orihuela SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ORIHUELA.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-azul.jpg" group-title="Regional" tvg-name="Radio Azul SER",Radio Azul SER
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-azul.jpg" group-title="Zona local" tvg-name="Radio Azul SER",Radio Azul SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AZUL.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cope-verin.jpg" group-title="Regional" tvg-name="COPE Verín",COPE Verín
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cope-verin.jpg" group-title="Zona local" tvg-name="COPE Verín",COPE Verín
 https://wecast-bl02.flumotion.com/copesedes/verin.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cope-elche.jpg" group-title="Regional" tvg-name="COPE Elche",COPE Elche
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cope-elche.jpg" group-title="Zona local" tvg-name="COPE Elche",COPE Elche
 https://stream-159.zeno.fm/fh1dewq8pxduv
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sirena.jpg" group-title="Regional" tvg-name="Radio Sirena COPE",Radio Sirena COPE
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sirena.jpg" group-title="Zona local" tvg-name="Radio Sirena COPE",Radio Sirena COPE
 https://str1.mediatelekom.net/proxy/radiosirena/stream
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sureste-cope.jpg" group-title="Regional" tvg-name="Radio Sureste COPE",Radio Sureste COPE 
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sureste-cope.jpg" group-title="Zona local" tvg-name="Radio Sureste COPE",Radio Sureste COPE 
 https://sonic.mediatelekom.net/8538/live
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero-elche.jpg" group-title="Regional" tvg-name="Onda Cero Elche",Onda Cero Elche
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero-elche.jpg" group-title="Zona local" tvg-name="Onda Cero Elche",Onda Cero Elche
 https://atres-live.ondacero.es/live/delegaciones/oc/elche/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero-vega-baja.jpg" group-title="Regional" tvg-name="Onda Cero Vega Baja",Onda Cero Vega Baja
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero-vega-baja.jpg" group-title="Zona local" tvg-name="Onda Cero Vega Baja",Onda Cero Vega Baja
 https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio-elche.jpg" group-title="Regional" tvg-name="esRadio Elche",esRadio Elche
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio-elche.jpg" group-title="Zona local" tvg-name="esRadio Elche",EsRadio Elche
 https://ns6.emisionlocal.com/proxy/esradioelche?mp=/stream
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/wradio.jpg" group-title="Regional" tvg-name="WRadio",WRadio
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/wradio.jpg" group-title="Zona local" tvg-name="WRadio",WRadio Costa Blanca
 http://stream.wradio.es:7000/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/inselradio.jpg" group-title="Regional" tvg-name="Inselradio Mallorca",Inselradio Mallorca
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/inselradio.jpg" group-title="Zona local" tvg-name="Inselradio Mallorca",Inselradio Mallorca
 https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/mallorca1.jpg" group-title="Regional" tvg-name="Mallorca 1",Mallorca 1
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/mallorca1.jpg" group-title="Zona local" tvg-name="Mallorca 1",Mallorca 1
 https://streamserver3.radioproducciones.com:10990/mallorcaeins-1
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/1live.jpg" group-title="RadioSat DE" tvg-name="Eins Live",Eins Live
