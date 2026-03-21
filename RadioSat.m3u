@@ -115,9 +115,6 @@ https://rtva-live-radio.flumotion.com/rtva/csm.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-extremadura.jpg" group-title="RadioSat" tvg-name="Canal Extremadura Radio",Canal Extremadura Radio
 https://canalextremadura-audio.flumotion.cloud/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/canal-extremadura.jpg" group-title="RadioSat" tvg-name="***",Canal Extremadura Radio 2
-https://dpdcrurkn82q1.cloudfront.net/wct-24e14bfa-c6bf-4b58-9b12-dda97484f818/continuous/4d975a39-0232-43e0-9277-9503453777a9/radio-live/index.m3u8
-
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/onda-regional.jpg" group-title="RadioSat" tvg-name="Onda Regional de Murcia",Onda Regional Murcia
 https://crmlive.redctnet.es/liveedge/orm/orm/playlist.m3u8
 
