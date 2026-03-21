@@ -238,9 +238,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFIC.m
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm-latinas.jpg" group-title="RadioSat" tvg-name="***",RFM - Latinas
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm-latinas.jpg" group-title="RadioSat" tvg-name="***",ZRFM - Latinas
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
-
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sirena.jpg" group-title="RadioSat" tvg-name="***",ZRadio Sirena COPE
 https://str1.mediatelekom.net/proxy/radiosirena/stream
 
@@ -265,3 +262,5 @@ https://d131.rndfnk.com/ard/swr/dasding/live/mp3/128/stream.mp3?cid=01FBVQWZT2B1
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-90.jpg" group-title="RadioSat" tvg-name="***",ZSSL Die 90
 https://sunsl.streamabc.net/sunsl-eurodance-mp3-192-9832422?sABC=69or7o91%230%230nrr933o28210pq24q132r107s143432%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1774091153
 
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm-latinas.jpg" group-title="RadioSat" tvg-name="***",XR > RADIOSAT Test
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
