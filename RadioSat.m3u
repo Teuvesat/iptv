@@ -259,5 +259,14 @@ https://stream-icy.bauermedia.pt/m80.mp3 external stream link
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-regional.jpg" group-title="RadioSat PT" tvg-name="Radio Regional",Rádio Regional
 https://play.radioregional.pt/stream/4/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="RadioSat",RadioSat TEST
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="RadioSat",RadioSat TEST - Los 40 Ourense
+https://27903.live.streamtheworld.com/LOS40_ASO_OURENSEAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="RadioSat",RadioSat TEST - Los 40 Elche
+https://27903.live.streamtheworld.com/LOS40_ASO_OURENSEAAC.aac
+
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="RadioSat",RadioSat TEST - Bikini FM Elche
+https://stream2.mediasector.es/bikini-elche-BR384
+
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="RadioSat",RadioSat TEST - Apunt FM
+https://fastly.live.brightcove.com/1854461588069069227/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NTQ0NjE1ODgwNjkwNjkyMjcifQ.RKqA-z0MRntFVph2G3tE9YzBp7vfdMXcynOKpyqvZTg/playlist-hls-dvr.m3u8
