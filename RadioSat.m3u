@@ -82,9 +82,6 @@ https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 #EXTINF:-1 radio="true" tvg-id="HitFM.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/hit-fm.jpg" group-title="RadioSat" tvg-name="Hit FM",Hit FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
 
-#EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/topradio.jpg" group-title="RadioSat" tvg-name="Top Radio",Top Radio #
-https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO.mp3
-
 #EXTINF:-1 radio="true" tvg-id="LocaFM.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/loca-fm.jpg" group-title="RadioSat" tvg-name="Loca FM",Loca FM
 https://s3.we4stream.com:2020/stream/locafm
 
@@ -97,14 +94,8 @@ https://stream.emisorasmusicales.net/radio/8000/activafm.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/bikini-fm.jpg" group-title="RadioSat" tvg-name="Bikini FM",Bikini FM
 https://stream.emisorasmusicales.net/radio/8030/bikinifm.mp3
 
-#EXTINF:-1 radio="true" tvg-id="OC_Ourense.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/maximal-perfil-02.jpg?w=300" group-title="RadioSat" tvg-name="Maximal",Maximal Radio #
-http://hubble.shoutca.st:8120/stream
-
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/inselradio.jpg" group-title="RadioSat" tvg-name="Das Inselradio",Inselradio Mallorca
 https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128
-
-#EXTINF:-1 radio="true" tvg-id="OndaMadrid.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondamadrid.jpg" group-title="RadioSat" tvg-name="Onda Madrid",Onda Madrid #
-https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/cmm.jpg" group-title="RadioSat" tvg-name="CMM Radio",CMM Radio
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/format/applehttp/.m3u8
@@ -188,6 +179,16 @@ https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ndr-schlager.jpg" group-title="RadioSat" tvg-name="***",NDR Schlager
 https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
 
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ndr-kultur.jpg" group-title="RadioSat" tvg-name="***",NDR Kultur
+http://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
+
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/njoy.jpg" group-title="RadioSat" tvg-name="***",NJOY
+http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3 
+
+
+
+
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/antenne-bayern.jpg" group-title="RadioSat" tvg-name="***",Antenne Bayern
 https://s5-webradio.antenne.de/antenne
 
@@ -208,9 +209,6 @@ https://stream.sunshine-live.de/hq/mp3-192
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-trance.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Trance
 https://sunsl.streamabc.net/sunsl-trance-mp3-192-6936250
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-90.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Die 90er #
-https://sunsl.streamabc.net/sunsl-90er-mp3-192-9697679 external stream link
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-2000.jpg" group-title="RadioSat" tvg-name="***",Sunshine Live - Die 2000er
 https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
@@ -233,14 +231,8 @@ https://stream.laut.fm/handsuplovers
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/technolovers-fm.jpg" group-title="RadioSat" tvg-name="***",Techno Lovers FM - Handsup
 https://stream.technolovers.fm/handsup
 
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/mallorca1.jpg" group-title="RadioSat" tvg-name="***",Mallorca 1 #
-http://streamserver3.radioproducciones.com:10990/mallorcaeins-1
-
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/wradio.jpg" group-title="RadioSat" tvg-name="***",WRadio
 http://stream.wradio.es:7000/;
-
-#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/sugar.jpg" group-title="RadioSat" tvg-name="***",Sugar Hits & Throwbacks #
-https://www.radio-espana.es/sugar-radio-mainalnd-spain
 
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/m80.jpg" group-title="RadioSat" tvg-name="***",M80 Rádio
 https://stream-icy.bauermedia.pt/m80.mp3 external stream link
