@@ -259,6 +259,9 @@ https://stream-icy.bauermedia.pt/m80.mp3 external stream link
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-regional.jpg" group-title="RadioSat PT" tvg-name="Radio Regional",Rádio Regional
 https://play.radioregional.pt/stream/4/;
 
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="RadioSat",RadioSat TEST
+https://27903.live.streamtheworld.com/LOS40_ASO_OURENSEAAC.aac
+
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="RadioSat" tvg-name="RadioSat",RadioSat TEST - Los 40 Ourense
 https://27903.live.streamtheworld.com/LOS40_ASO_OURENSEAAC.aac
 
