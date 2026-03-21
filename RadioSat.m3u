@@ -238,6 +238,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFIC.m
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm-latinas.jpg" group-title="RadioSat" tvg-name="***",RFM - Latinas
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
 
+#EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/rfm-latinas.jpg" group-title="RadioSat" tvg-name="***",ZRFM - Latinas
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_LATINAS.mp3
+
 #EXTINF:-1 radio="true" tvg-id="***" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-sirena.jpg" group-title="RadioSat" tvg-name="***",ZRadio Sirena COPE
 https://str1.mediatelekom.net/proxy/radiosirena/stream
 
