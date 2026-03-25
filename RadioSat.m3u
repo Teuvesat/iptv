@@ -266,7 +266,7 @@ https://stream-icy.bauermedia.pt/m80.mp3 external stream link
 https://play.radioregional.pt/stream/4/;
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",RadioSat TEST
-https://27903.live.streamtheworld.com/LOS40_ASO_OURENSEAAC.aac
+http://xn--radiocarballio-2nb.es:8000/directo.mp3
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Los 40 Ourense
 https://27903.live.streamtheworld.com/LOS40_ASO_OURENSEAAC.aac
@@ -283,8 +283,8 @@ https://stream2.mediasector.es/activafm-elche-FM
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Los 40 Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Teleelx Radio Marca
-http://xn--radiocarballio-2nb.es:8000/directo.mp3
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Teleelx Radio Marca #
+
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Bikini FM Elche
 http://stream2.mediasector.es:8000/bikini-elche-BR384
