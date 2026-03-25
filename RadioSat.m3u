@@ -232,7 +232,7 @@ https://streams.regenbogen.de/rr-freiburg-128-mp3
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/sunshine-live.jpg" group-title="RadioSat Alemania" tvg-name="Sunshine Live",Sunshine Live
 https://stream.sunshine-live.de/hq/mp3-192
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-90.jpg" group-title="RadioSat DE" tvg-name="SSL 90",Sunshine Live - Die 90er
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-90.jpg" group-title="RadioSat Alemania" tvg-name="SSL 90",Sunshine Live - Die 90er
 https://sunsl.streamabc.net/sunsl-eurodance-mp3-192-9832422?sABC=69or7o91%230%230nrr933o28210pq24q132r107s143432%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1774091153
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ssl-2000.jpg" group-title="RadioSat Alemania" tvg-name="SSL 2000",Sunshine Live - Die 2000er
@@ -292,10 +292,10 @@ http://stream2.mediasector.es:8000/bikini-elche-BR384
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Radio Hallo
 https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - TSF Rádio Noticias
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - TSF Rádio Noticias #
 http://nossl.fmstream.org/index.php?s=TSF
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - RFM Jazzy
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - RFM Jazzy #
 http://nossl.fmstream.org/index.php?s=RFM
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Chaves FM
@@ -307,13 +307,13 @@ http://play.radioregional.pt:8002/;
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Rádio Regional Dance
 http://play.radioregional.pt:8000/stream/10/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Rádio Regional Popular
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Rádio Regional Popular #
 http://play1.radioregional.pt:8000/stream/15/; 
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Rádio Regional Inspiration
 http://play.radioregional.pt:8000/stream/12/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Rádio Regional Latina
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Rádio Regional Latina #
 http://play.radioregional.pt:8000/stream/14/; 
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="RS TEST",RS#TEST - Bay Radio
