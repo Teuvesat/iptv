@@ -296,7 +296,7 @@ https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3
 http://nossl.fmstream.org/index.php?s=TSF
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - RFM Jazzy #
-http://nossl.fmstream.org/index.php?s=RFM
+http://nossl.fmstream.org/index.php?s=RFM/;
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Chaves FM
 https://radios2.justweb.pt:8050/;
