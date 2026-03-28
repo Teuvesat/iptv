@@ -172,11 +172,14 @@ https://atres-live.ondacero.es/live/delegaciones/oc/elche/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/ondacero-vega-baja.jpg" group-title="RadioSat Radio local" tvg-name="Onda Cero Vega Baja",Onda Cero Vega Baja
 https://atres-live.ondacero.es/live/delegaciones/oc/torrevieja/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio-elche.jpg" group-title="RadioSat Radio local" tvg-name="esRadio Elche",EsRadio Elche
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/esradio-elche.jpg" group-title="RadioSat Radio local" tvg-name="EsRadio Elche",EsRadio Elche
 https://ns6.emisionlocal.com/proxy/esradioelche?mp=/stream
 
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/activa-fm-elche.jpg" group-title="RadioSat Radio local" tvg-name="Activa FM Elche",Activa FM Elche
+https://stream2.mediasector.es/activafm-elche-FM
+
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/bikini-fm-elche.jpg" group-title="RadioSat Radio local" tvg-name="Bikini FM Elche",Bikini FM Elche
-https://stream2.mediasector.es/bikini-elche-BR384
+http://stream2.mediasector.es:8000/bikini-elche-BR384
 
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/wradio.jpg" group-title="RadioSat Radio local" tvg-name="WRadio",WRadio Costa Blanca
 http://stream.wradio.es:7000/;
@@ -265,58 +268,52 @@ https://stream-icy.bauermedia.pt/m80.mp3 external stream link
 #EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radio-regional.jpg" group-title="RadioSat Portugal" tvg-name="Radio Regional",Rádio Regional
 https://play.radioregional.pt/stream/4/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",RadioSat TEST
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",RadioSat TEST
 http://xn--radiocarballio-2nb.es:8000/directo.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Los 40 Ourense
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Los 40 Ourense
 https://27903.live.streamtheworld.com/LOS40_ASO_OURENSEAAC.aac
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Los 40 Elche
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Los 40 Elche
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_ELCHEAAC.aac
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Radio María
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Radio María
 http://dreamsiteradiocp4.com:8092/
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Activa FM Elche
-https://stream2.mediasector.es/activafm-elche-FM
-
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Los 40 Urban
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Los 40 Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Teleelx Radio Marca #
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Teleelx Radio Marca #
 
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Bikini FM Elche
-http://stream2.mediasector.es:8000/bikini-elche-BR384
-
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Radio Hallo
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Radio Hallo
 https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - TSF Rádio Noticias #
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - TSF Rádio Noticias #
 http://nossl.fmstream.org/index.php?s=TSF
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - RFM Jazzy #
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - RFM Jazzy #
 http://nossl.fmstream.org/index.php?s=RFM/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Chaves FM
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Chaves FM
 https://radios2.justweb.pt:8050/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional NAC
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional NAC
 http://play.radioregional.pt:8002/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional Dance
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional Dance
 http://play.radioregional.pt:8000/stream/10/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional Popular #
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional Popular #
 http://play1.radioregional.pt:8000/stream/15/; 
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional Inspiration
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional Inspiration
 http://play.radioregional.pt:8000/stream/12/;
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional Latina #
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Rádio Regional Latina #
 http://play.radioregional.pt:8000/stream/14/; 
 
-#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2025/11/perfil-2.jpg" group-title="TEST" tvg-name="TEST",TEST - Bay Radio
+#EXTINF:-1 radio="true" tvg-id="RadioSat.Radio" tvg-logo="https://teuvesat.wordpress.com/wp-content/uploads/2026/03/radiosat-perfil-1.jpg" group-title="TEST" tvg-name="TEST",TEST - Bay Radio
 https://securestreams2.autopo.st:1317/stream
 
 
